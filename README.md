@@ -36,6 +36,7 @@ object-detection-recognition/
 
 
 ---
+<img width="805" height="473" alt="Screenshot 2026-02-20 at 4 59 10 PM" src="https://github.com/user-attachments/assets/0305d08c-56fc-4c26-83bd-4d894f6a8834" />
 
 ## Environment Setup
 
