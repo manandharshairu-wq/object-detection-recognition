@@ -1,0 +1,14 @@
+{
+  "dataset": "Penn-Fudan",
+  "model": "YOLOv8n",
+  "mAP@0.5": 0.970297931144147,
+  "precision": 0.9713366614963532,
+  "recall": 0.8802342534245847,
+  "speed_ms_per_img": {
+    "preprocess": 1.0294885200073622,
+    "inference": 10.805430399987017,
+    "loss": 0.006472560007750872,
+    "postprocess": 1.742720679994818
+  },
+  "training_time_sec": 231.33816000000002
+}

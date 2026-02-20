@@ -1,0 +1,9 @@
+{
+  "dataset": "Penn-Fudan",
+  "model": "Faster R-CNN MobileNetV3 FPN",
+  "mAP@0.5": 0.9740066528320312,
+  "precision": 0.8450704225233088,
+  "recall": 0.9836065573609245,
+  "inference_img_per_sec": 23.073146693030765,
+  "training_time_sec": 45.18125667700002
+}
