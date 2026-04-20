@@ -16,6 +16,7 @@ This repository compares two lightweight object detection models under limited d
 ---
 
 ## Repository Structure
+```bash
 object-detection-recognition/
 ├── outputs/     # Saved outputs (plots, predictions, metrics)
 ├── runs/
@@ -25,7 +26,7 @@ object-detection-recognition/
 ├── requirements.txt          # Dependencies
 ├── Report_Assignment2.pdf    # Final technical report
 └── README.md
-
+```
 
 ---
 
@@ -33,12 +34,14 @@ object-detection-recognition/
 
 ### 1. Clone the repository
 
-
+```bash
 git clone https://github.com/<your-username>/object-detection-recognition.git
 cd object-detection-recognition
+```
 
 <img width="805" height="522" alt="Screenshot 2026-02-20 at 5 03 48 PM" src="https://github.com/user-attachments/assets/3fdf2728-fd6b-47d8-a749-963a16b82b8d" />
 
+```bash
 dataset/
 ├── images/
 │   ├── train/
@@ -48,7 +51,7 @@ dataset/
     ├── train/
     ├── val/
     └── test/
-
+```
 <img width="805" height="640" alt="Screenshot 2026-02-20 at 5 04 28 PM" src="https://github.com/user-attachments/assets/484c3fb7-637f-483f-ba52-bf0b5465ca2f" />
 
 Outputs are saved to: outputs/
